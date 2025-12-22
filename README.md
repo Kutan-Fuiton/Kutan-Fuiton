@@ -35,12 +35,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kutan-Fuiton&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kutan-Fuiton&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kutan-Fuiton&layout=compact&theme=aura" alt="Top Languages" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kutan-Fuiton&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kutan-Fuiton&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kutan-Fuiton&layout=compact&theme=radical&hide_border=false&langs_count=6" alt="Top Languages" width="300"/>
 </p>
+
+
 
 ---
 
