@@ -1,26 +1,18 @@
-# 👋 Hi, I’m **Subarno Chakraborty** 
+# 💫 Hi 👋, I'm Subarno Chakraborty
 
-🧠 **Currently focused on _AI & Machine Learning_** as my primary career path, gaining hands-on experience in **Machine Learning** by working with **data**, experimenting with **models**, and exploring practical **ML algorithms**.
+- 🧠 Focused on **AI & Machine Learning**, learning through data, models, and practical ML algorithms  
+- 📈 Actively improving **Data Structures & Algorithms** for stronger problem-solving  
+- 🌐 Started with **web development** (frontend + backend), now using backend skills in ML projects  
+- 🔌 Curious about the **software side of IoT** and intelligent, data-driven systems  
+- 🌱 Learning by building, failing, and staying consistent  
 
-📈 **Strongly committed to improving _Data Structures & Algorithms_**, consistently pushing **problem-solving skills** as a long-term investment in writing better, more reliable code.
-
-🌐 **My development journey began with web development**, where I explored both **frontend** and **backend** concepts, later applying backend knowledge while supporting some of my **ML projects**.
-
-🔌 **Interested in the software side of IoT**, with a curiosity toward building **intelligent, data-driven systems** that connect software with real-world devices.
-
-🌱 **I’ve faced failure across many projects, yet I continue to stay curious**, steadily growing through **hands-on software building** and learning from what didn’t work.
-
----
 
 ## 🛠️ Currently Working On
 
-🤖 **Hands-on Machine Learning projects**: experimenting with models, data preprocessing, and ML algorithms to strengthen practical skills.  
-
-📈 **Data Structures & Algorithms practice**: solving problems consistently to improve logic, efficiency, and problem-solving discipline.  
-
-🔌 **Exploring IoT concepts**: learning both **software and hardware aspects**, including backend and frontend development, to build intelligent, data-driven systems that interact with the real world.  
-
-💡 **Side experiments & small projects**: iterating, learning from failure, and refining development skills across different domains.
+- 🤖 **Machine Learning** — hands-on with data, models, and ML algorithms  
+- 📈 **DSA practice** — improving logic and problem-solving consistency  
+- 🔌 **IoT exploration** — understanding connected systems and real-world applications  
+- 💡 **Small experiments** — building, breaking, and learning fast 
 
 ---
 
