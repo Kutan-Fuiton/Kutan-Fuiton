@@ -27,9 +27,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kutan-Fuiton&theme=radical" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kutan-Fuiton&theme=neon&hide_border=false" width="320" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kutan-Fuiton&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kutan-Fuiton&theme=radical" width="300" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kutan-Fuiton&theme=neon&hide_border=false" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kutan-Fuiton&theme=radical" width="300" />
 </p>
 
 ### 🔝 Top Contributed Repo
